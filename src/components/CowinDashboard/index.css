@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.app-container {
+  display: flex;
+  flex-direction: column;
+  background-color: black;
+  background-size: cover;
+}
+.heading {
+  color: #ffffff;
+}
+.header {
+  display: flex;
+  flex-direction: row;
+}
